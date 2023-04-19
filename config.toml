@@ -13,3 +13,9 @@ publishDir = "docs"
 
   # Subtitle for home
   homeSubtitle = "A beautiful simple blog"
+
+# And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
