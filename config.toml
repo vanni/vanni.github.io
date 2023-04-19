@@ -19,3 +19,6 @@ publishDir = "docs"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  
+ # Enable sharing buttons, if you like
+  enableSharingButtons = true
