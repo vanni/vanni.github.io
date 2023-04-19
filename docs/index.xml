@@ -6,7 +6,16 @@
     <description>Recent content on The world is small!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 19:49:36 +1000</lastBuildDate><atom:link href="https://vanni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 20:16:34 +1000</lastBuildDate><atom:link href="https://vanni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo is the best</title>
+      <link>https://vanni.github.io/posts/hugo/</link>
+      <pubDate>Wed, 19 Apr 2023 20:16:34 +1000</pubDate>
+      
+      <guid>https://vanni.github.io/posts/hugo/</guid>
+      <description>This is awesome way to create a blog with the help of Github !!! To be honest it is quite exciting</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://vanni.github.io/posts/my-first-post/</link>
