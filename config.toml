@@ -1,0 +1,15 @@
+baseURL = "https://vanni.github.io"
+languageCode = 'en-us'
+title = 'The world is small!'
+theme = "hello-friend-ng"
+paginate = 10
+publishDir = "docs"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "A beautiful simple blog"
