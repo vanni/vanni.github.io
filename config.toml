@@ -22,3 +22,4 @@ publishDir = "docs"
   
  # Enable sharing buttons, if you like
   enableSharingButtons = true
+  

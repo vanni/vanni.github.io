@@ -14,9 +14,13 @@
             <pubDate>Wed, 19 Apr 2023 20:16:34 +1000</pubDate>
             
             <guid>https://vanni.github.io/posts/hugo/</guid>
-            <description>This is awesome way to create a blog with the help of Github !!! To be honest it is quite exciting</description>
-            <content type="html"><![CDATA[<h2 id="this-is-awesome-way-to-create-a-blog-with-the-help-of-github">This is awesome way to create a blog with the help of Github</h2>
-<p>!!! To be honest it is quite exciting</p>
+            <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+!!!This is awesome way to create a blog with the help of Github</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
+<p>!!!This is awesome way to create a blog with the help of Github</p>
 ]]></content>
         </item>
         

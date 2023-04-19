@@ -5,9 +5,13 @@ draft: false
 toc: false
 images:
 tags:
-  - test,config
+  - test
 ---
 
-## This is awesome way to create a blog with the help of Github
+## Introduction
 
-!!! To be honest it is quite exciting
+This is **bold** text, and this is _emphasized_ text.
+
+Visit the [Hugo](https://gohugo.io) website!
+
+!!!This is awesome way to create a blog with the help of Github
