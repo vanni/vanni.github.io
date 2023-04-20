@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - ['#family', '#blog']
+  - ['family', 'blog']
 ---
 
 ### Marcus is my super Hero
