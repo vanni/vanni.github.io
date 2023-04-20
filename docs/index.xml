@@ -24,7 +24,9 @@ Visit the Hugo website!
       <pubDate>Wed, 19 Apr 2023 19:49:36 +1000</pubDate>
       
       <guid>https://blog.vpiana.xyz/posts/my-first-post/</guid>
-      <description>This is my first post ##Forza Italia !</description>
+      <description>This is my first post
+##Forza Italia !
+!!! Hugo rocks!</description>
     </item>
     
   </channel>
