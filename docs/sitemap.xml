@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vanni.github.io/posts/hugo/</loc>
+    <loc>https://blog.vpiana.xyz/posts/hugo/</loc>
     <lastmod>2023-04-19T20:16:34+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/posts/</loc>
+    <loc>https://blog.vpiana.xyz/posts/</loc>
     <lastmod>2023-04-19T20:16:34+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/tags/</loc>
+    <loc>https://blog.vpiana.xyz/tags/</loc>
     <lastmod>2023-04-19T20:16:34+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/tags/test/</loc>
+    <loc>https://blog.vpiana.xyz/tags/test/</loc>
     <lastmod>2023-04-19T20:16:34+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/</loc>
+    <loc>https://blog.vpiana.xyz/</loc>
     <lastmod>2023-04-19T20:16:34+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/posts/my-first-post/</loc>
+    <loc>https://blog.vpiana.xyz/posts/my-first-post/</loc>
     <lastmod>2023-04-19T19:49:36+10:00</lastmod>
   </url><url>
-    <loc>https://vanni.github.io/categories/</loc>
+    <loc>https://blog.vpiana.xyz/categories/</loc>
   </url>
 </urlset>

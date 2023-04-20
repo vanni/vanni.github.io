@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The world is small!</title>
-    <link>https://vanni.github.io/</link>
+    <link>https://blog.vpiana.xyz/</link>
     <description>Recent content on The world is small!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 20:16:34 +1000</lastBuildDate><atom:link href="https://vanni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 20:16:34 +1000</lastBuildDate><atom:link href="https://blog.vpiana.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo is the best</title>
-      <link>https://vanni.github.io/posts/hugo/</link>
+      <link>https://blog.vpiana.xyz/posts/hugo/</link>
       <pubDate>Wed, 19 Apr 2023 20:16:34 +1000</pubDate>
       
-      <guid>https://vanni.github.io/posts/hugo/</guid>
+      <guid>https://blog.vpiana.xyz/posts/hugo/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!
 !!!This is awesome way to create a blog with the help of Github</description>
@@ -20,10 +20,10 @@ Visit the Hugo website!
     
     <item>
       <title>My First Post</title>
-      <link>https://vanni.github.io/posts/my-first-post/</link>
+      <link>https://blog.vpiana.xyz/posts/my-first-post/</link>
       <pubDate>Wed, 19 Apr 2023 19:49:36 +1000</pubDate>
       
-      <guid>https://vanni.github.io/posts/my-first-post/</guid>
+      <guid>https://blog.vpiana.xyz/posts/my-first-post/</guid>
       <description>This is my first post ##Forza Italia !</description>
     </item>
     
