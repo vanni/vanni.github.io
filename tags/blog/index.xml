@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The world is small!</title>
-    <link>https://blog.vpiana.xyz/</link>
-    <description>Recent content on The world is small!</description>
+    <title>blog on The world is small!</title>
+    <link>https://blog.vpiana.xyz/tags/blog/</link>
+    <description>Recent content in blog on The world is small!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 21:06:52 +1000</lastBuildDate><atom:link href="https://blog.vpiana.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://blog.vpiana.xyz/page/contact/</link>
-      <pubDate>Sun, 23 Apr 2023 21:06:52 +1000</pubDate>
-      
-      <guid>https://blog.vpiana.xyz/page/contact/</guid>
-      <description>If you want to drop me a line please us this form..</description>
-    </item>
-    
+    <lastBuildDate>Sun, 23 Apr 2023 20:56:57 +1000</lastBuildDate><atom:link href="https://blog.vpiana.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github Workflow</title>
       <link>https://blog.vpiana.xyz/blog/github-workflow/</link>
       <pubDate>Sun, 23 Apr 2023 20:56:57 +1000</pubDate>
       
       <guid>https://blog.vpiana.xyz/blog/github-workflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blog.vpiana.xyz/page/about/</link>
-      <pubDate>Sun, 23 Apr 2023 20:20:56 +1000</pubDate>
-      
-      <guid>https://blog.vpiana.xyz/page/about/</guid>
       <description></description>
     </item>
     
