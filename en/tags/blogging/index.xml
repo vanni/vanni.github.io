@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogging on Funland</title>
+    <link>https://vanni.github.io/en/tags/blogging/</link>
+    <description>Recent content in Blogging on Funland</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 19 Nov 2026 17:55:33 +1000</lastBuildDate>
+    <atom:link href="https://vanni.github.io/en/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An invitation to you all</title>
+      <link>https://vanni.github.io/en/posts/un-invito-per-voi/</link>
+      <pubDate>Thu, 19 Nov 2026 17:55:33 +1000</pubDate>
+      <guid>https://vanni.github.io/en/posts/un-invito-per-voi/</guid>
+      <description>&lt;p&gt;Welcome once again to my personal blog. This space on the web will share a little about my life here in Australia. I&amp;rsquo;m building it with &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hugo&lt;/a&gt;, one of the most popular open-source static site generators. For the theme, I chose &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PaperMod&lt;/a&gt;. I like its clean style and lack of unnecessary frills.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From ChatGPT:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Static sites, such as those built with Hugo, offer many advantages over traditional CMS platforms like WordPress. Because they are generated directly as HTML, CSS, and JavaScript, they deliver high performance, very fast load times, and a smoother browsing experience. They don&amp;rsquo;t require a database or server-side processing, which also makes them more secure, less exposed to attacks, and easier to maintain. They&amp;rsquo;re also easy to version and manage with Git, and can be published automatically using tools such as GitHub Actions. The result is a modern, lightweight, scalable, and affordable solution—ideal for anyone who wants a fast, reliable website that&amp;rsquo;s easy to maintain.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vanni.github.io/sitemap.xml

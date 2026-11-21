@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Funland</title>
+    <link>https://vanni.github.io/posts/</link>
+    <description>Recent content in Posts on Funland</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Fri, 20 Nov 2026 14:39:07 +1000</lastBuildDate>
+    <atom:link href="https://vanni.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un invito per tutti Voi</title>
+      <link>https://vanni.github.io/posts/un-invito-per-voi/</link>
+      <pubDate>Thu, 19 Nov 2026 17:55:33 +1000</pubDate>
+      <guid>https://vanni.github.io/posts/un-invito-per-voi/</guid>
+      <description>&lt;p&gt;Benvenuti ancora una volta nel mio blog personale. Questo spazio nel web racconterà un pò della mia vita qui in Australia. L&amp;rsquo;ho sto realizzando con &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hugo&lt;/a&gt;, uno dei più popolari open-source per siti web statici. Peer quanto riguarda il tema, hoi scelto &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Papermod&lt;/a&gt;, mi piace lo stile pulito e senza troppy fronzoli.&lt;/p&gt;
+&lt;p&gt;Da &lt;strong&gt;ChatGPT:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I siti statici, come quelli realizzati con Hugo, offrono numerosi vantaggi rispetto alle tradizionali piattaforme CMS come WordPress. Essendo generati direttamente in HTML, CSS e JavaScript, garantiscono prestazioni elevate, tempi di caricamento estremamente rapidi e un’esperienza di navigazione più fluida. Non richiedendo database o elaborazioni lato server, sono anche più sicuri, meno esposti ad attacchi informatici e richiedono pochissima manutenzione. Inoltre, sono facilmente versionabili e gestibili attraverso Git, consentendo di automatizzare la pubblicazione tramite strumenti come GitHub Actions. Il risultato è una soluzione moderna, leggera, scalabile ed economica, ideale per chi desidera un sito veloce, affidabile e semplice da mantenere nel tempo.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Dove tutto ha avuto inizio.</title>
+      <link>https://vanni.github.io/posts/dove-tutto-ha-avuto-inizio/</link>
+      <pubDate>Fri, 20 Nov 2026 14:39:07 +1000</pubDate>
+      <guid>https://vanni.github.io/posts/dove-tutto-ha-avuto-inizio/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Australia map&#34; loading=&#34;lazy&#34; src=&#34;https://vanni.github.io/images/posts/dove-tutto-ha-avuto-inizio/australia.webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Come direbbe il buon &lt;a href=&#34;https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aldo&amp;hellip;&lt;/a&gt;
+&amp;ldquo;Non ci posso credere !!!&amp;rdquo;. Ebbene sì, il prossimo 12 gennaio 2027 celebrerò i 20 anni dall&amp;rsquo;arrivo qui in Australia.&lt;/p&gt;
+&lt;p&gt;Lo ricordo ancora come fosse ieri, vabbè a dir la verità non proprio a dire il vero,  ma cercherò di raccontarvi qualcosa.&lt;/p&gt;
+&lt;p&gt;Arrivai a Brisbane con tante idee, sogni da realizzare e una nuova vita da pianificare.
+Certamente non e&amp;rsquo; stato facile, molti sacrifici e scelte da dover fare senza avere una profonda conoscenza delle istituzioni Australiane e facce conosciute a cui chiedere consigli. Il mio piano pero&amp;rsquo; era solido, ero da&amp;rsquo;&amp;lsquo;altra parte del mondo per reiventarmi e come primo traguardo mi ero prefisso di provare a prendere la cittadinanza. La stessa è concessa su una base di punteggio calcolato in base a istruzione/età/ esperienze lavorative, ecc.
+Ho avuto dei momenti di sconforto lo ammetto, ma alla fine, non ho mai mollato e da buon bergamasco con la testa dura l&amp;rsquo;ho presa. E&amp;rsquo; stato necessario comunque laurearmi, poi un altro anno di corso tramite l&amp;rsquo;ACS (Australia Computer Society) e dopo uno stage, avevo raggiunto abbastanza punti per richiedere la cittadinanza.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
