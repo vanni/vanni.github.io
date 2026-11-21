@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vanni.github.io/en/posts/siamo-live/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/posts/siamo-live/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/posts/siamo-live/"
+                />
+  </url><url>
     <loc>https://vanni.github.io/en/posts/un-invito-per-voi/</loc>
     <lastmod>2026-11-19T17:55:33+10:00</lastmod>
     <xhtml:link
@@ -15,8 +28,21 @@
                 href="https://vanni.github.io/en/posts/un-invito-per-voi/"
                 />
   </url><url>
+    <loc>https://vanni.github.io/en/authors/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/authors/"
+                />
+  </url><url>
     <loc>https://vanni.github.io/en/</loc>
-    <lastmod>2026-11-21T11:05:39+10:00</lastmod>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -26,6 +52,32 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://vanni.github.io/en/"
+                />
+  </url><url>
+    <loc>https://vanni.github.io/en/posts/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://vanni.github.io/en/authors/vanni/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/authors/vanni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/authors/vanni/"
                 />
   </url><url>
     <loc>https://vanni.github.io/en/search/</loc>
@@ -41,19 +93,6 @@
                 href="https://vanni.github.io/en/search/"
                 />
   </url><url>
-    <loc>https://vanni.github.io/en/authors/</loc>
-    <lastmod>2026-11-20T14:39:07+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://vanni.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://vanni.github.io/en/authors/"
-                />
-  </url><url>
     <loc>https://vanni.github.io/en/tags/lifeoz/</loc>
     <lastmod>2026-11-20T14:39:07+10:00</lastmod>
     <xhtml:link
@@ -67,19 +106,6 @@
                 href="https://vanni.github.io/en/tags/lifeoz/"
                 />
   </url><url>
-    <loc>https://vanni.github.io/en/posts/</loc>
-    <lastmod>2026-11-20T14:39:07+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://vanni.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://vanni.github.io/en/posts/"
-                />
-  </url><url>
     <loc>https://vanni.github.io/en/tags/</loc>
     <lastmod>2026-11-20T14:39:07+10:00</lastmod>
     <xhtml:link
@@ -91,19 +117,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://vanni.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://vanni.github.io/en/authors/vanni/</loc>
-    <lastmod>2026-11-20T14:39:07+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://vanni.github.io/authors/vanni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://vanni.github.io/en/authors/vanni/"
                 />
   </url><url>
     <loc>https://vanni.github.io/en/posts/dove-tutto-ha-avuto-inizio/</loc>

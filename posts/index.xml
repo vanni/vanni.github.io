@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Funland</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:39:07 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:04:15 +1000</lastBuildDate>
     <atom:link href="https://vanni.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siamo Live!</title>
+      <link>https://vanni.github.io/posts/siamo-live/</link>
+      <pubDate>Sat, 21 Nov 2026 15:04:15 +1000</pubDate>
+      <guid>https://vanni.github.io/posts/siamo-live/</guid>
+      <description>&lt;p&gt;Ci siamo! Il blog è live!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Un invito per tutti Voi</title>
       <link>https://vanni.github.io/posts/un-invito-per-voi/</link>
