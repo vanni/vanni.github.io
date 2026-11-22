@@ -13,7 +13,7 @@
       <link>https://vanni.github.io/en/posts/siamo-live/</link>
       <pubDate>Sat, 21 Nov 2026 15:04:15 +1000</pubDate>
       <guid>https://vanni.github.io/en/posts/siamo-live/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re live! The blog is online!&lt;/p&gt;</description>
+      <description>&lt;p&gt;We&amp;rsquo;re live! The blog is up and running! I plan to publish something each week about my life here Down Under. I&amp;rsquo;ve realised that everyday situations here can still be interesting to people living in very different places and realities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An invitation to you all</title>
@@ -23,7 +23,7 @@
       <description>&lt;p&gt;Welcome once again to my personal blog. This space on the web will share a little about my life here in Australia. I&amp;rsquo;m building it with &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hugo&lt;/a&gt;, one of the most popular open-source static site generators. For the theme, I chose &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;PaperMod&lt;/a&gt;. I like its clean style and lack of unnecessary frills.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;From ChatGPT:&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Static sites, such as those built with Hugo, offer many advantages over traditional CMS platforms like WordPress. Because they are generated directly as HTML, CSS, and JavaScript, they deliver high performance, very fast load times, and a smoother browsing experience. They don&amp;rsquo;t require a database or server-side processing, which also makes them more secure, less exposed to attacks, and easier to maintain. They&amp;rsquo;re also easy to version and manage with Git, and can be published automatically using tools such as GitHub Actions. The result is a modern, lightweight, scalable, and affordable solution—ideal for anyone who wants a fast, reliable website that&amp;rsquo;s easy to maintain.&lt;/p&gt;
+&lt;p&gt;Static sites, such as those built with Hugo, offer many advantages over traditional CMS platforms like WordPress. Because they&amp;rsquo;re generated directly as HTML, CSS and JavaScript, they deliver high performance, very fast load times and a smoother browsing experience. They don&amp;rsquo;t require a database or server-side processing, which also makes them more secure, less exposed to attacks and easier to maintain. They&amp;rsquo;re also easy to version and manage with Git, and can be published automatically using tools such as GitHub Actions. The result is a modern, lightweight, scalable and affordable solution—ideal for anyone who wants a fast, reliable website that&amp;rsquo;s easy to maintain.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     <item>
@@ -32,10 +32,10 @@
       <pubDate>Fri, 20 Nov 2026 14:39:07 +1000</pubDate>
       <guid>https://vanni.github.io/en/posts/dove-tutto-ha-avuto-inizio/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Australia map&#34; loading=&#34;lazy&#34; src=&#34;https://vanni.github.io/images/posts/dove-tutto-ha-avuto-inizio/australia.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;As &lt;a href=&#34;https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aldo&lt;/a&gt; would say: &amp;ldquo;I can&amp;rsquo;t believe it!&amp;rdquo; And yes, on January 12, 2027, I&amp;rsquo;ll celebrate 20 years since arriving here in Australia.&lt;/p&gt;
-&lt;p&gt;I still remember it as if it were yesterday—well, to be honest, not quite—but I&amp;rsquo;ll try to tell you about it.&lt;/p&gt;
-&lt;p&gt;I arrived in Brisbane with lots of ideas, dreams to pursue, and a new life to plan.&lt;/p&gt;
-&lt;p&gt;It certainly wasn&amp;rsquo;t easy. There were many sacrifices to make and decisions to take, without a deep understanding of Australian institutions or familiar faces I could turn to for advice. But I had a solid plan: I was on the other side of the world to reinvent myself, and my first goal was to try to obtain citizenship. Eligibility was based on a points system calculated from factors such as education, age, and work experience.&lt;/p&gt;</description>
+&lt;p&gt;As &lt;a href=&#34;https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aldo&lt;/a&gt; would say: &amp;ldquo;I can&amp;rsquo;t believe it!&amp;rdquo; And yes, on 12 January 2027, I&amp;rsquo;ll celebrate 20 years since arriving here in Australia.&lt;/p&gt;
+&lt;p&gt;I still remember it as if it were yesterday—well, if I&amp;rsquo;m honest, not quite—but I&amp;rsquo;ll try to tell you about it.&lt;/p&gt;
+&lt;p&gt;I arrived in Brisbane with plenty of ideas, dreams to pursue and a new life to plan.&lt;/p&gt;
+&lt;p&gt;It certainly wasn&amp;rsquo;t easy. There were many sacrifices to make and decisions to take, without a deep understanding of Australian institutions or familiar faces I could turn to for advice. But I had a solid plan: I was on the other side of the world to reinvent myself, and my first goal was to try to obtain citizenship. Eligibility was based on a points system calculated from factors such as education, age and work experience.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

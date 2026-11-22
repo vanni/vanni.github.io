@@ -41,6 +41,19 @@
                 href="https://vanni.github.io/en/authors/"
                 />
   </url><url>
+    <loc>https://vanni.github.io/tags/blogging/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/tags/blogging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/tags/blogging/"
+                />
+  </url><url>
     <loc>https://vanni.github.io/</loc>
     <lastmod>2026-11-21T15:04:15+10:00</lastmod>
     <xhtml:link
@@ -65,6 +78,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://vanni.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://vanni.github.io/tags/</loc>
+    <lastmod>2026-11-21T15:04:15+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://vanni.github.io/authors/vanni/</loc>
@@ -119,32 +145,6 @@
                 href="https://vanni.github.io/en/tags/lifeoz/"
                 />
   </url><url>
-    <loc>https://vanni.github.io/tags/</loc>
-    <lastmod>2026-11-20T14:39:07+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://vanni.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://vanni.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://vanni.github.io/tags/blogging/</loc>
-    <lastmod>2026-11-19T17:55:33+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://vanni.github.io/tags/blogging/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://vanni.github.io/en/tags/blogging/"
-                />
-  </url><url>
     <loc>https://vanni.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -167,6 +167,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://vanni.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://vanni.github.io/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://vanni.github.io/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://vanni.github.io/en/privacy/"
                 />
   </url>
 </urlset>
