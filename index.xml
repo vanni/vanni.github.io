@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Funland</title>
-    <link>https://vanni.github.io/</link>
+    <link>https://ibloggy.net/</link>
     <description>Recent content on Funland</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <lastBuildDate>Sat, 21 Nov 2026 15:04:15 +1000</lastBuildDate>
-    <atom:link href="https://vanni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ibloggy.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Siamo Live!</title>
-      <link>https://vanni.github.io/posts/siamo-live/</link>
+      <link>https://ibloggy.net/posts/siamo-live/</link>
       <pubDate>Sat, 21 Nov 2026 15:04:15 +1000</pubDate>
-      <guid>https://vanni.github.io/posts/siamo-live/</guid>
+      <guid>https://ibloggy.net/posts/siamo-live/</guid>
       <description>&lt;p&gt;Ci siamo! Il blog è live! La mia idea è di pubblicare qualcosa ogni settimana sulla mia via qui downunder. Mi son reso conto che a volte situazioni del tutto normali qui, possano comunque incuriosire persone che vivono in tutt&amp;rsquo;altri posti con realtà ben diverse.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Un invito per tutti Voi</title>
-      <link>https://vanni.github.io/posts/un-invito-per-voi/</link>
+      <link>https://ibloggy.net/posts/un-invito-per-voi/</link>
       <pubDate>Thu, 19 Nov 2026 17:55:33 +1000</pubDate>
-      <guid>https://vanni.github.io/posts/un-invito-per-voi/</guid>
+      <guid>https://ibloggy.net/posts/un-invito-per-voi/</guid>
       <description>&lt;p&gt;Benvenuti ancora una volta nel mio blog personale. Questo spazio nel web racconterà un pò della mia vita qui in Australia. L&amp;rsquo;ho sto realizzando con &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hugo&lt;/a&gt;, uno dei più popolari open-source per siti web statici. Peer quanto riguarda il tema, hoi scelto &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Papermod&lt;/a&gt;, mi piace lo stile pulito e senza troppy fronzoli.&lt;/p&gt;
 &lt;p&gt;Da &lt;strong&gt;ChatGPT:&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -28,10 +28,10 @@
     </item>
     <item>
       <title>Dove tutto ha avuto inizio.</title>
-      <link>https://vanni.github.io/posts/dove-tutto-ha-avuto-inizio/</link>
+      <link>https://ibloggy.net/posts/dove-tutto-ha-avuto-inizio/</link>
       <pubDate>Fri, 20 Nov 2026 14:39:07 +1000</pubDate>
-      <guid>https://vanni.github.io/posts/dove-tutto-ha-avuto-inizio/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Australia map&#34; loading=&#34;lazy&#34; src=&#34;https://vanni.github.io/images/posts/dove-tutto-ha-avuto-inizio/australia.webp&#34;&gt;&lt;/p&gt;
+      <guid>https://ibloggy.net/posts/dove-tutto-ha-avuto-inizio/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Australia map&#34; loading=&#34;lazy&#34; src=&#34;https://ibloggy.net/images/posts/dove-tutto-ha-avuto-inizio/australia.webp&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Come direbbe il buon &lt;a href=&#34;https://en.wikipedia.org/wiki/Aldo,_Giovanni_e_Giacomo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Aldo&amp;hellip;&lt;/a&gt;
 &amp;ldquo;Non ci posso credere !!!&amp;rdquo;. Ebbene sì, il prossimo 12 gennaio 2027 celebrerò i 20 anni dall&amp;rsquo;arrivo qui in Australia.&lt;/p&gt;
 &lt;p&gt;Lo ricordo ancora come fosse ieri, vabbè a dir la verità non proprio a dire il vero,  ma cercherò di raccontarvi qualcosa.&lt;/p&gt;
@@ -41,9 +41,9 @@ Ho avuto dei momenti di sconforto lo ammetto, ma alla fine, non ho mai mollato e
     </item>
     <item>
       <title>Informativa sulla privacy</title>
-      <link>https://vanni.github.io/privacy/</link>
+      <link>https://ibloggy.net/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vanni.github.io/privacy/</guid>
+      <guid>https://ibloggy.net/privacy/</guid>
       <description>&lt;p&gt;Questo blog personale è ospitato tramite &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. Quando visiti il sito, GitHub può elaborare e registrare il tuo indirizzo IP per motivi di sicurezza. Per maggiori informazioni, consulta l&amp;rsquo;&lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&#34;&gt;Informativa sulla privacy di GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Il sito non utilizza servizi di analisi del traffico o pubblicità. Ogni pagina carica lo script del pulsante Buy Me a Coffee da un CDN del servizio; la connessione può comportare il trattamento di dati tecnici, come l&amp;rsquo;indirizzo IP. Se interagisci con il pulsante, si applica l&amp;rsquo;informativa sulla privacy di Buy Me a Coffee. La ricerca viene eseguita nel browser e i termini cercati non vengono inviati a me. I link esterni portano a siti con proprie informative sulla privacy.&lt;/p&gt;</description>
     </item>
