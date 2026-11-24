@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/authors/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/tags/blogging/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -67,8 +67,34 @@
                 href="https://ibloggy.net/en/tags/blogging/"
                 />
   </url><url>
+    <loc>https://ibloggy.net/en/tags/daisy/</loc>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/tags/daisy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/tags/daisy/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/posts/daisy-birthday/</loc>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/posts/daisy-birthday/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/posts/daisy-birthday/"
+                />
+  </url><url>
     <loc>https://ibloggy.net/en/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -81,7 +107,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/posts/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -94,7 +120,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/tags/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -107,7 +133,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/authors/vanni/</loc>
-    <lastmod>2026-11-23T15:42:15+10:00</lastmod>
+    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"

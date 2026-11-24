@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Funland</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:42:15 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:09:58 +1000</lastBuildDate>
     <atom:link href="https://ibloggy.net/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;re Live!</title>
@@ -34,6 +34,17 @@
 &lt;blockquote&gt;
 &lt;p&gt;Static sites, such as those built with Hugo, offer many advantages over traditional CMS platforms like WordPress. Because they&amp;rsquo;re generated directly as HTML, CSS and JavaScript, they deliver high performance, very fast load times and a smoother browsing experience. They don&amp;rsquo;t require a database or server-side processing, which also makes them more secure, less exposed to attacks and easier to maintain. They&amp;rsquo;re also easy to version and manage with Git, and can be published automatically using tools such as GitHub Actions. The result is a modern, lightweight, scalable and affordable solution—ideal for anyone who wants a fast, reliable website that&amp;rsquo;s easy to maintain.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Daisy&#39;s Birthday</title>
+      <link>https://ibloggy.net/en/posts/daisy-birthday/</link>
+      <pubDate>Wed, 25 Nov 2026 08:30:58 +1000</pubDate>
+      <guid>https://ibloggy.net/en/posts/daisy-birthday/</guid>
+      <description>&lt;p&gt;Happy birthday, Daisy!&lt;/p&gt;
+&lt;p&gt;Last 20 November, our much-loved, sweet Daisy reached the grand old age of 13.&lt;/p&gt;
+&lt;p&gt;Angie made a little cake with carrots and peanut butter for the occasion. The following Sunday, we took Daisy to a grooming salon for a much-needed wash and trim.&lt;/p&gt;
+&lt;p&gt;Good as new!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Daisy&#34; loading=&#34;lazy&#34; src=&#34;https://ibloggy.net/images/posts/daisy-birthday/daisy.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where It all began</title>
