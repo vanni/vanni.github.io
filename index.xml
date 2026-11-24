@@ -57,5 +57,12 @@ Ho avuto dei momenti di sconforto lo ammetto, ma alla fine, non ho mai mollato e
       <description>&lt;p&gt;Questo blog personale è ospitato tramite &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. Quando visiti il sito, GitHub può elaborare e registrare il tuo indirizzo IP per motivi di sicurezza. Per maggiori informazioni, consulta l&amp;rsquo;&lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&#34;&gt;Informativa sulla privacy di GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Il sito non utilizza servizi di analisi del traffico o pubblicità. Ogni pagina carica lo script del pulsante Buy Me a Coffee da un CDN del servizio; la connessione può comportare il trattamento di dati tecnici, come l&amp;rsquo;indirizzo IP. Se interagisci con il pulsante, si applica l&amp;rsquo;informativa sulla privacy di Buy Me a Coffee. La ricerca viene eseguita nel browser e i termini cercati non vengono inviati a me. I link esterni portano a siti con proprie informative sulla privacy.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Informazioni</title>
+      <link>https://ibloggy.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ibloggy.net/about/</guid>
+      <description>About</description>
+    </item>
   </channel>
 </rss>

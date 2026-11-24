@@ -158,6 +158,18 @@
                 href="https://ibloggy.net/en/posts/dove-tutto-ha-avuto-inizio/"
                 />
   </url><url>
+    <loc>https://ibloggy.net/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/about/"
+                />
+  </url><url>
     <loc>https://ibloggy.net/en/archives/</loc>
     <xhtml:link
                 rel="alternate"

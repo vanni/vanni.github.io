@@ -193,5 +193,17 @@
                 hreflang="en-US"
                 href="https://ibloggy.net/en/privacy/"
                 />
+  </url><url>
+    <loc>https://ibloggy.net/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/about/"
+                />
   </url>
 </urlset>
