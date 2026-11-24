@@ -194,6 +194,18 @@
                 href="https://ibloggy.net/en/categories/"
                 />
   </url><url>
+    <loc>https://ibloggy.net/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/contact/"
+                />
+  </url><url>
     <loc>https://ibloggy.net/en/privacy/</loc>
     <xhtml:link
                 rel="alternate"
