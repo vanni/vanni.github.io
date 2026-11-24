@@ -182,18 +182,6 @@
                 href="https://ibloggy.net/en/categories/"
                 />
   </url><url>
-    <loc>https://ibloggy.net/privacy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://ibloggy.net/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ibloggy.net/en/privacy/"
-                />
-  </url><url>
     <loc>https://ibloggy.net/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,6 +192,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://ibloggy.net/en/about/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/privacy/"
                 />
   </url>
 </urlset>
