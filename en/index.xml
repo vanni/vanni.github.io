@@ -77,7 +77,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ibloggy.net/en/privacy/</guid>
       <description>&lt;p&gt;This personal blog is hosted using &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. When you visit the site, GitHub may process and log your IP address for security purposes. For more information, see &lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement&#34;&gt;GitHub&amp;rsquo;s Privacy Statement&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This site does not use analytics or advertising services. Every page loads the Buy Me a Coffee button script from its CDN; this connection may involve processing technical data such as your IP address. If you interact with the button, Buy Me a Coffee&amp;rsquo;s privacy practices apply.&lt;/p&gt;</description>
+&lt;p&gt;This site uses &lt;a href=&#34;https://developers.cloudflare.com/web-analytics/&#34;&gt;Cloudflare Web Analytics&lt;/a&gt; to measure page views and page performance. The beacon sends navigation and timing metrics to Cloudflare. Cloudflare states that Web Analytics does not collect or use visitors&amp;rsquo; personal data and does not track end users across its customers&amp;rsquo; websites. For details, see its information on &lt;a href=&#34;https://developers.cloudflare.com/web-analytics/data-metrics/data-origin-and-collection/&#34;&gt;data collection&lt;/a&gt; and &lt;a href=&#34;https://developers.cloudflare.com/web-analytics/about/&#34;&gt;Cloudflare Web Analytics&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
