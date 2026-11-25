@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/authors/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://ibloggy.net/en/tags/blogging/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -65,6 +65,84 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://ibloggy.net/en/tags/blogging/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/posts/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/posts/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/tags/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/tags/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/posts/tv-series-fantascienza/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/posts/tv-series-fantascienza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/posts/tv-series-fantascienza/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/tags/tv-series/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/tags/tv-series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/tags/tv-series/"
+                />
+  </url><url>
+    <loc>https://ibloggy.net/en/authors/vanni/</loc>
+    <lastmod>2026-11-25T09:34:33+10:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://ibloggy.net/authors/vanni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ibloggy.net/en/authors/vanni/"
                 />
   </url><url>
     <loc>https://ibloggy.net/en/tags/daisy/</loc>
@@ -91,58 +169,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://ibloggy.net/en/posts/daisy-birthday/"
-                />
-  </url><url>
-    <loc>https://ibloggy.net/en/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://ibloggy.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ibloggy.net/en/"
-                />
-  </url><url>
-    <loc>https://ibloggy.net/en/posts/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://ibloggy.net/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ibloggy.net/en/posts/"
-                />
-  </url><url>
-    <loc>https://ibloggy.net/en/tags/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://ibloggy.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ibloggy.net/en/tags/"
-                />
-  </url><url>
-    <loc>https://ibloggy.net/en/authors/vanni/</loc>
-    <lastmod>2026-11-24T15:09:58+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://ibloggy.net/authors/vanni/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ibloggy.net/en/authors/vanni/"
                 />
   </url><url>
     <loc>https://ibloggy.net/en/search/</loc>
