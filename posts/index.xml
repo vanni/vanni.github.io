@@ -6,7 +6,7 @@
     <description>Recent content in Posts on ibloggy.net</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:34:33 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:26:16 +1000</lastBuildDate>
     <atom:link href="https://ibloggy.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Siamo Live!</title>
@@ -48,6 +48,16 @@ Ho avuto dei momenti di sconforto lo ammetto, ma alla fine, non ho mai mollato e
 &lt;blockquote&gt;
 &lt;p&gt;I siti statici, come quelli realizzati con Hugo, offrono numerosi vantaggi rispetto alle tradizionali piattaforme CMS come WordPress. Essendo generati direttamente in HTML, CSS e JavaScript, garantiscono prestazioni elevate, tempi di caricamento estremamente rapidi e un’esperienza di navigazione più fluida. Non richiedendo database o elaborazioni lato server, sono anche più sicuri, meno esposti ad attacchi informatici e richiedono pochissima manutenzione. Inoltre, sono facilmente versionabili e gestibili attraverso Git, consentendo di automatizzare la pubblicazione tramite strumenti come GitHub Actions. Il risultato è una soluzione moderna, leggera, scalabile ed economica, ideale per chi desidera un sito veloce, affidabile e semplice da mantenere nel tempo.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Vegemite</title>
+      <link>https://ibloggy.net/posts/vegemite/</link>
+      <pubDate>Thu, 26 Nov 2026 18:26:16 +1000</pubDate>
+      <guid>https://ibloggy.net/posts/vegemite/</guid>
+      <description>&lt;h3 id=&#34;che-cosè&#34;&gt;Che cos&amp;rsquo;è&lt;/h3&gt;
+&lt;p&gt;Secondo Wikipedia, la Vegemite è una crema salata a base di estratto di lievito, generalmente spalmata sul pane, ma utilizzabile anche in cucina. Insomma, una specie di marmellata, ma senza la parte dolce e senza nessuna intenzione di farti felice al primo assaggio. In Australia è praticamente un’istituzione nazionale: se non l’hai mai provata, probabilmente ti guardano come se fossi appena arrivato da un altro pianeta.&lt;/p&gt;
+&lt;h3 id=&#34;la-mia-prima-volta&#34;&gt;La mia prima volta&lt;/h3&gt;
+&lt;p&gt;Io l’ho assaggiata per la prima volta appena arrivato qui, nel lontano 2007. Il risultato? Non mi è piaciuta. Per niente. Anzi, ricordo ancora la mia espressione dopo il primo morso: quella di uno che ha appena scoperto che il pane può tradirti. Da buon italiano, abituato a Nutella, marmellate e altre cose che rendono la colazione un momento di felicità, non riuscivo proprio a capire come gli australiani potessero mangiare quella roba con tanta soddisfazione.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Serie TV - fantascienza</title>

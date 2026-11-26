@@ -6,7 +6,7 @@
     <description>Recent content on ibloggy.net</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:34:33 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:26:16 +1000</lastBuildDate>
     <atom:link href="https://ibloggy.net/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;re Live!</title>
@@ -45,6 +45,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;Static sites, such as those built with Hugo, offer many advantages over traditional CMS platforms like WordPress. Because they&amp;rsquo;re generated directly as HTML, CSS and JavaScript, they deliver high performance, very fast load times and a smoother browsing experience. They don&amp;rsquo;t require a database or server-side processing, which also makes them more secure, less exposed to attacks and easier to maintain. They&amp;rsquo;re also easy to version and manage with Git, and can be published automatically using tools such as GitHub Actions. The result is a modern, lightweight, scalable and affordable solution—ideal for anyone who wants a fast, reliable website that&amp;rsquo;s easy to maintain.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Vegemite</title>
+      <link>https://ibloggy.net/en/posts/vegemite/</link>
+      <pubDate>Thu, 26 Nov 2026 18:26:16 +1000</pubDate>
+      <guid>https://ibloggy.net/en/posts/vegemite/</guid>
+      <description>&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;According to Wikipedia, Vegemite is a salty spread made from yeast extract. It&amp;rsquo;s usually spread on bread, but can also be used in cooking. In other words, it&amp;rsquo;s a kind of jam without the sweetness—and with no intention of making you happy on the first taste. In Australia, it&amp;rsquo;s practically a national institution: if you&amp;rsquo;ve never tried it, people might look at you as if you&amp;rsquo;d just landed from another planet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TV Series: Science Fiction</title>
